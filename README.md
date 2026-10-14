@@ -1,99 +1,299 @@
 <div align="center">
 
-# Hi 👋, I'm Manvi Agrawal
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=MANVI%20AGRAWAL&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=00F7FF&animation=fadeIn&desc=Machine%20Learning%20%7C%20Data%20Engineering%20%7C%20AI%20Developer&descAlignY=62&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Python+Developer;Open+Source+Contributor;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Data+Engineering+Learner;Computer+Vision+Developer;AWS+Cloud+Practitioner;Java+Developer;Building+AI+Projects;Always+Learning+🚀" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212259881-f5f8ddc3-3bb5-4e1d-a42e-3b0b4c6a9b5f.gif" width="700">
+<br>
+
+<img width="650" src="https://user-images.githubusercontent.com/74038190/216656986-3b8dca44-6df8-4b8f-8f43-6d11e7d35fef.gif"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Manvi1214&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Manvi1214?style=for-the-badge&logo=github&color=00C2FF"/>
+
+<img src="https://img.shields.io/github/stars/Manvi1214?style=for-the-badge&logo=github&color=00C2FF"/>
 
 </div>
 
 ---
 
-# 💫 About Me
 
-🎓 Computer Science Student  
-🤖 Passionate about Artificial Intelligence & Machine Learning  
-♟️ Creator of Custom Chess Engines & Computer Vision Applications  
-💻 Love building interactive, modern, and efficient software  
-🚀 Actively exploring new technologies and open-source contributions  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 👨‍🎓 Student
+
+🎓 **B.Tech Computer Science & Engineering**
+
+🏫 **KIET Group of Institutions**
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Currently Learning
 
-### Languages
+- 🤖 Machine Learning
+- ☁ Data Engineering
+- 🧠 Deep Learning
+- 📊 Data Analytics
+- ⚡ System Design
+
+---
+
+### 💼 Career Goal
+
+💡 Building practical AI products that solve real-world problems.
+
+🎯 Looking for **Machine Learning** and **Data Engineering Internships.**
+
+---
+
+### 🌱 Currently Working On
+
+- 🎓 Smart Attendance System
+- 🌊 MarinePulse AI
+- ♟ Chess Engine
+- 🧠 AI Detective (RAG)
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxYW9lMWh6ZTR4eDk4Z3Y0MWM2Z2dqMnhvN3NjdjY2bW16MW1mNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="35"> Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
 </p>
 
 ---
 
-### AI, Machine Learning & Computer Vision
+## 🌐 Web Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=opencv"/>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CatBoost-FFD54F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Random%20Forest-2E8B57?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,sqlite" />
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,linux" />
+
+</p>
+
+---
+
+## 📊 Data Analytics
+
+<p>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
+
+</div>
 
 ---
 
-### Tools & Platforms
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Development Tools
+
+<div align="center">
+
+### 💻 IDEs & Editors
+
 <p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=apple"/>
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,jupyter" />
 </p>
 
 ---
 
+### ⚙ Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### 🧰 Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postman,docker,linux,bash" />
+
+</p>
+
+---
+
+### 📊 Analytics & BI
+
+<p>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+</div>
+
+---
 # 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Manvi1214/chess-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manvi1214&repo=chess-engine&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Manvi1214/AiGestureControlledRealityPortal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manvi1214&repo=AiGestureControlledRealityPortal&theme=tokyonight" />
-  </a>
-</p>
+## 🎓 Smart Attendance System
 
-### ♟️ [Chess Engine](https://github.com/Manvi1214/chess-engine)
-A high-performance Python chess engine with UCI support, classical search, and modern Web GUI.
-- ⚡ Negamax search with Alpha-Beta pruning & Quiescence search
-- 💾 Transposition tables with Zobrist hashing & move ordering
-- 🌐 Interactive browser chessboard Web GUI
-- 🧪 72/72 automated tests & performance benchmark utilities
+AI-powered Face Recognition Attendance System
 
-### 🌌 [AI Gesture-Controlled Reality Portal](https://github.com/Manvi1214/AiGestureControlledRealityPortal)
-An interactive computer vision portal that transforms reality using hand gestures.
-- 🖐️ Real-time hand tracking and multi-gesture recognition
-- 🪞 Dynamic visual portal shaders and augmented reality filters
-- ⚡ High-performance frame rendering and webcam smoothing
+⭐ Real-time Face Detection
+
+⭐ Automatic Attendance Marking
+
+⭐ Anti-Spoofing & Duplicate Detection
+
+⭐ Student Database Management
+
+⭐ Attendance Reports & Analytics
 
 ---
 
-# 📊 GitHub Statistics & Activity
+## 🌊 MarinePulse AI
+
+AI-powered Marine Pollution Intelligence System
+
+- 🌊 Pollution Detection
+
+- 📍 Live Map
+
+- 🤝 NGO Integration
+
+- 🤖 AI Image Classification
+
+---
+
+## ♟️ Chess Engine
+
+Advanced Chess Engine built from Scratch
+
+✔ Minimax Algorithm
+
+✔ Alpha-Beta Pruning
+
+✔ Position Evaluation Function
+
+✔ Move Generation & Game Analysis
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Manvi1214&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1214&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krish6004&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish6004&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manvi1214&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=Krish6004&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Krish6004&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish6004&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -101,23 +301,42 @@ An interactive computer vision portal that transforms reality using hand gesture
 # 🌍 Connect with Me
 
 <p align="center">
-<a href="https://github.com/Manvi1214">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<a href="https://github.com/Krish6004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:agrawalmanvi13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://linkedin.com/in/krish-gupta-488743330/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="mailto:krishgupta28706@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Manvi1214&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Krish6004&color=blueviolet&style=for-the-badge)
 
-### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
+### ⭐ If you like my work, consider giving a Star ⭐
 
 </div>
+
+<!--
+**Krish6004/Krish6004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
