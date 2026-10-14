@@ -12,22 +12,17 @@
 
 # 💫 About Me
 
-🎓 Computer Science Student
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-♟️ Builder of AI Applications, Chess Engines & Computer Vision Systems
-
-💻 Love crafting interactive, modern software solutions
-
-🚀 Looking for Software Development & ML/AI Internships
+🎓 Computer Science Student  
+🤖 Passionate about Artificial Intelligence & Machine Learning  
+♟️ Creator of Custom Chess Engines & Computer Vision Applications  
+💻 Love building interactive, modern, and efficient software  
+🚀 Actively exploring new technologies and open-source contributions  
 
 ---
 
 # 🚀 Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=c"/>
@@ -41,7 +36,6 @@
 ---
 
 ### AI, Machine Learning & Computer Vision
-
 <p>
 <img src="https://skillicons.dev/icons?i=opencv"/>
 <img src="https://skillicons.dev/icons?i=pytorch"/>
@@ -55,7 +49,6 @@
 ---
 
 ### Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -68,56 +61,39 @@
 
 # 🌟 Featured Projects
 
-## ♟️ [Chess Engine](https://github.com/Manvi1214/chess-engine)
+<p align="center">
+  <a href="https://github.com/Manvi1214/chess-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manvi1214&repo=chess-engine&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Manvi1214/AiGestureControlledRealityPortal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manvi1214&repo=AiGestureControlledRealityPortal&theme=tokyonight" />
+  </a>
+</p>
 
-A full-featured Python chess engine with UCI support and modern browser GUI.
-
+### ♟️ [Chess Engine](https://github.com/Manvi1214/chess-engine)
+A high-performance Python chess engine with UCI support, classical search, and modern Web GUI.
 - ⚡ Negamax search with Alpha-Beta pruning & Quiescence search
 - 💾 Transposition tables with Zobrist hashing & move ordering
 - 🌐 Interactive browser chessboard Web GUI
-- 🧪 Comprehensive test suite & benchmark utilities
+- 🧪 72/72 automated tests & performance benchmark utilities
+
+### 🌌 [AI Gesture-Controlled Reality Portal](https://github.com/Manvi1214/AiGestureControlledRealityPortal)
+An interactive computer vision portal that transforms reality using hand gestures.
+- 🖐️ Real-time hand tracking and multi-gesture recognition
+- 🪞 Dynamic visual portal shaders and augmented reality filters
+- ⚡ High-performance frame rendering and webcam smoothing
 
 ---
 
-## 🌌 [AI Gesture-Controlled Reality Portal](https://github.com/Manvi1214/AiGestureControlledRealityPortal)
-
-An interactive computer vision portal that transforms reality with hand gestures.
-
-- 🖐️ Real-time hand tracking and gesture detection
-- 🪞 Dynamic visual portal shaders and augmented filters
-- ⚡ High-performance frame rendering and camera smoothing
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Statistics & Activity
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manvi1214&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1214&layout=compact&theme=tokyonight"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Manvi1214&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1214&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Manvi1214&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manvi1214&theme=tokyonight&column=4"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi1214&theme=tokyo-night"/>
+  <img src="https://streak-stats.demolab.com?user=Manvi1214&theme=tokyonight" />
 </p>
 
 ---
@@ -125,15 +101,12 @@ An interactive computer vision portal that transforms reality with hand gestures
 # 🌍 Connect with Me
 
 <p align="center">
-
 <a href="https://github.com/Manvi1214">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://linkedin.com/in/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -142,6 +115,6 @@ An interactive computer vision portal that transforms reality with hand gestures
 
 ![](https://komarev.com/ghpvc/?username=Manvi1214&color=blueviolet&style=for-the-badge)
 
-### ⭐ If you like my work, consider giving a Star ⭐
+### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
 
 </div>
