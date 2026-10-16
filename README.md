@@ -272,7 +272,7 @@ Advanced Chess Engine built from Scratch
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Krish6004&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Manvi1214&theme=tokyonight"/>
 
 </p>
 
@@ -302,7 +302,7 @@ Advanced Chess Engine built from Scratch
 
 <p align="center">
 
-<a href="https://github.com/Krish6004">
+<a href="https://github.com/Manvi1214">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -310,7 +310,7 @@ Advanced Chess Engine built from Scratch
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:krishgupta28706@gmail.com">
+<a href="mailto:agrawalmanvi13@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
