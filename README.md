@@ -260,9 +260,9 @@ Advanced Chess Engine built from Scratch
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krish6004&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manvi1214&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish6004&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1214&layout=compact&theme=tokyonight"/>
 
 </p>
 
